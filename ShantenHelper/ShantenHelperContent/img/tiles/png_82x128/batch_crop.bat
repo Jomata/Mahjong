@@ -1,0 +1,1 @@
+for  /R %%f  in (*.png)  do  "C:\Program Files\ImageMagick-6.8.8-Q16\mogrify.exe" -crop 82x128+23 +repage  "%%f"

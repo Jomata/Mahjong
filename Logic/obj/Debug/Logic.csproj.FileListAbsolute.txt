@@ -1,0 +1,10 @@
+C:\Users\Jose Tamayo\Google Drive\Personal\Mahjong\Logic\bin\Debug\Mahjong.dll
+C:\Users\Jose Tamayo\Google Drive\Personal\Mahjong\Logic\bin\Debug\Mahjong.pdb
+C:\Users\Jose Tamayo\Google Drive\Personal\Mahjong\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Jose Tamayo\Google Drive\Personal\Mahjong\Logic\obj\Debug\Mahjong.dll
+C:\Users\Jose Tamayo\Google Drive\Personal\Mahjong\Logic\obj\Debug\Mahjong.pdb
+C:\Users\Jose\Google Drive\Personal\Mahjong\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Google Drive\Personal\Mahjong\Logic\obj\Debug\Mahjong.dll
+C:\Users\Jose\Google Drive\Personal\Mahjong\Logic\bin\Debug\Mahjong.dll
+C:\Users\Jose\Google Drive\Personal\Mahjong\Logic\bin\Debug\Mahjong.pdb
+C:\Users\Jose\Google Drive\Personal\Mahjong\Logic\obj\Debug\Mahjong.pdb
