@@ -30,15 +30,15 @@ namespace Mahjong.Async.Players
         //public static float WeightMeld { get { return AIShantenPlus.Meld; } }
         //public static float WeightHonorOrTerminal { get { return AIShantenPlus.HonorOrTerminal; } }
 
-        //public float WeightPair { get { return this.Pair; } protected set { this.Pair = value; } }
-        //public float WeightAdjacent { get { return this.Adjacent; } protected set { this.Adjacent = value; } }
-        //public float WeightPseudoAdjacent { get { return this.PseudoAdjacent; } protected set { this.PseudoAdjacent = value; } }
-        //public float WeightSameSuit { get { return this.SameSuit; } protected set { this.SameSuit = value; } }
-        //public float WeightDora { get { return this.Dora; } protected set { this.Dora = value; } }
-        //public float WeightAnyDiscard { get { return this.AnyDiscard; } protected set { this.AnyDiscard = value; } }
-        //public float WeightMyDiscard { get { return this.MyDiscard; } protected set { this.MyDiscard = value; } }
-        //public float WeightMeld { get { return this.Meld; } protected set { this.Meld = value; } }
-        //public float WeightHonorOrTerminal { get { return this.HonorOrTerminal; } protected set { this.HonorOrTerminal = value; } }
+        public float WeightPair { get { return AIShantenPlus.Pair; } protected set { AIShantenPlus.Pair = value; } }
+        public float WeightAdjacent { get { return AIShantenPlus.Adjacent; } protected set { AIShantenPlus.Adjacent = value; } }
+        public float WeightPseudoAdjacent { get { return AIShantenPlus.PseudoAdjacent; } protected set { AIShantenPlus.PseudoAdjacent = value; } }
+        public float WeightSameSuit { get { return AIShantenPlus.SameSuit; } protected set { AIShantenPlus.SameSuit = value; } }
+        public float WeightDora { get { return AIShantenPlus.Dora; } protected set { AIShantenPlus.Dora = value; } }
+        public float WeightAnyDiscard { get { return AIShantenPlus.AnyDiscard; } protected set { AIShantenPlus.AnyDiscard = value; } }
+        public float WeightMyDiscard { get { return AIShantenPlus.MyDiscard; } protected set { AIShantenPlus.MyDiscard = value; } }
+        public float WeightMeld { get { return AIShantenPlus.Meld; } protected set { AIShantenPlus.Meld = value; } }
+        public float WeightHonorOrTerminal { get { return AIShantenPlus.HonorOrTerminal; } protected set { AIShantenPlus.HonorOrTerminal = value; } }
 
         public virtual void AverageWeightsWith(AIShantenPlus Another)
         {
